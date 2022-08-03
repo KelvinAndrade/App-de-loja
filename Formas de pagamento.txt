@@ -1,2 +1,3 @@
 Cartão
-Dinheiro
+Dinheiro (Crédito/Débito)
+
