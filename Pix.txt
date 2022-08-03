@@ -1,0 +1,2 @@
+Pagamento por pix
+(email, número de telefone, CPF, QR code, chave criptografada,)
